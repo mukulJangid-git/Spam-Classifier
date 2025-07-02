@@ -46,7 +46,7 @@ This project implements a Spam Classifier designed to accurately identify and fi
 
 ### Usage
 
-*(Provide clear instructions on how to run and use your spam classifier. Examples:)*
+
 
 * **Training the Model:**
     ```bash
