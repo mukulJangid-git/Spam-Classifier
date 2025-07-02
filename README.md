@@ -6,7 +6,7 @@ This project implements a Spam Classifier designed to accurately identify and fi
 
 ## Features
 
-*(Please add specific features of your project here. Examples include:)*
+
 * **High Accuracy:** Utilizes advanced machine learning algorithms to achieve high precision in spam detection.
 * **Real-time Classification:** Capable of classifying messages in real-time.
 * **User-friendly Interface:** (If applicable, describe any UI)
@@ -15,7 +15,7 @@ This project implements a Spam Classifier designed to accurately identify and fi
 
 ## Technologies Used
 
-*(Please list the specific programming languages, libraries, and frameworks you used. Examples include:)*
+
 * **Programming Language:** Python
 * **Machine Learning Libraries:** Scikit-learn, TensorFlow, Keras, NLTK (for natural language processing)
 * **Data Manipulation:** Pandas, NumPy
@@ -26,7 +26,7 @@ This project implements a Spam Classifier designed to accurately identify and fi
 
 ### Prerequisites
 
-*(List any software or dependencies users need to install before running your project. Examples:)*
+
 * Python 3.x
 * pip (Python package installer)
 * Specific libraries: `pip install pandas numpy scikit-learn nltk` (adjust as per your project)
@@ -72,6 +72,4 @@ This project implements a Spam Classifier designed to accurately identify and fi
         print("This message is not spam.")
     ```
 
-## Project Structure
 
-*(Briefly explain the main directories and files in your project. Examples:)*
